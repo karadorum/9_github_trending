@@ -6,6 +6,7 @@ This script displays a list of 20 most trending GitHub repositories created this
 To run script, type on Linux Terminal:
 ```bash
 python3 github_trending.py
+```
 
 # Project Goals
 
